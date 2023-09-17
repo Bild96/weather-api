@@ -1,5 +1,8 @@
-# Weather-api <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square"> 
-🌥️ Weather Climate Change API - host it in RapidAPI <img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge"><img src="https://img.shields.io/github/license/bild96/solana-explorer?style=for-the-badge&color=blue">
+# Weather-api 
+<img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square"> 
+🌥️ Weather Climate Change API - host it in RapidAPI 
+
+<img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge"><img src="https://img.shields.io/github/license/bild96/solana-explorer?style=for-the-badge&color=blue">
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
